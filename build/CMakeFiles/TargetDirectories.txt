@@ -1,0 +1,3 @@
+/home/satvik-sharma/Desktop/ROS2_Automatic/build/CMakeFiles/ROS2_Automatic.dir
+/home/satvik-sharma/Desktop/ROS2_Automatic/build/CMakeFiles/edit_cache.dir
+/home/satvik-sharma/Desktop/ROS2_Automatic/build/CMakeFiles/rebuild_cache.dir

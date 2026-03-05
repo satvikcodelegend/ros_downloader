@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ROS2_Automatic.dir/Automation.cpp.o -o ROS2_Automatic  /usr/lib/aarch64-linux-gnu/libQt5Widgets.so.5.15.13 /usr/lib/aarch64-linux-gnu/libQt5Network.so.5.15.13 /usr/lib/aarch64-linux-gnu/libQt5Gui.so.5.15.13 /usr/lib/aarch64-linux-gnu/libQt5Core.so.5.15.13 

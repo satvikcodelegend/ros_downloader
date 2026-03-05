@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=ROS2 Automatic Installer
+Exec=ROS2_Automatic
+Icon=ros2
+Categories=Development;
+Terminal=false
