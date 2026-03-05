@@ -29,7 +29,7 @@ jobs:
 
       - name: Build AppImage
         run: |
-          ./linuxdeployqt-continuous-x86_64.AppImage build/ROS2_Automatic_Installer-aarch64 -appimage
+          ./linuxdeployqt-continuous-x86_64.AppImage build/ROS2_Automatic -appimage
 
       - name: Upload AppImage
         uses: actions/upload-artifact@v4
